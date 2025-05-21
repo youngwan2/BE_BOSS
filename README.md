@@ -12,6 +12,7 @@
 <br><br>
 ## 📒 문서
 - [프로젝트 문서 <링크>](https://youngwan2.notion.site/BOSS-1fa68acd779b8092b0e6d01252c91451)
+- [트러블 슈팅 <링크>](https://youngwan2.notion.site/1f968acd779b804c915fee322b4ceb02)
 <br><br>
 ## 📟 개발환경
 - **운영 체제**: Windows
